@@ -1,5 +1,5 @@
-# On Line Boat Sales Analysis
-A CarreerFoundry self directed project conducting an analysis of boat views for an online company to help increase website traffic.
+# Online Boat Sales & Views Analysis
+A CareerFoundry self directed project conducting an analysis of boat views for an online company to help increase website traffic.
 
 ## Project Overview:
 The marketing team is preparing a weekly newsletter for boat owners. The newsletter is designed to help sellers get more views of their boat, as well as stay on top of market trends.
@@ -36,4 +36,4 @@ These are the contents of the folders utilized for this project:
 ## Tableau Storyboard:
 *Please note that it doesn’t contain every step of the performed analysis*
 
-To view the final Story Board and Dashboard product, please see Tableau Public link by [Clicking Here](https://public.tableau.com/app/profile/maria.aisling.tortosa.tucker/viz/OnlineBoatViewsMaraketingAnalysis/Story1)
+To view the final Story Board and Dashboard product, please see Tableau Public link by [Clicking Here](https://public.tableau.com/app/profile/maria.aisling.tortosa.tucker/viz/OnlineBoatSalesViewsMarketingAnalysis/OnlineBoatSalesViewsMarketingAnalysis?publish=yes)
